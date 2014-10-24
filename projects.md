@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### -- the BARTista project --
+### -- the b(ART) project  --
 
 From barista to BARTista, I've recently picked up the art of busking at BART stations in SF. Busking, for those who are not familiar, is performing in public areas - and it's been a rewarding experience so far in the city! In this case, my friend and professional busker, John Bridenbeck is my duo partner. Check out our first recorded project ever at Powell station.
 
