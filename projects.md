@@ -11,3 +11,7 @@ From barista to BARTista, I've recently picked up busking at BART stations in SF
 In this case, my dear friend and professional busker, John Bridenbeck is my duo partner. Check out our first recorded project ever at Powell station.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/9GOi1qB3GCQ?list=UU55nrMUDCKP5kSNpUKhW4-A" frameborder="0" allowfullscreen></iframe>
+
+Another busking venture, solo this time:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/HN3WwshtqJQ" frameborder="0" allowfullscreen></iframe>
