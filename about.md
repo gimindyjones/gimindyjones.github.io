@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Originally from South Korea, Gimin is a LA-native now based in SF. She draws inspiration from her environment. Naturally, her interest in Web Development and the tech sector has grown since graduating from UC Berkeley last year.
+Originally from South Korea, Gimin is a LA-native now based in SF. She draws inspiration from her environment. Naturally, her interest in web development and the tech sector has grown since graduating from UC Berkeley last year.
 
 ### Currently
 
