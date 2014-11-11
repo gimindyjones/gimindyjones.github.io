@@ -10,7 +10,7 @@ Originally from South Korea, Gimin is a LA-native now based in SF. She draws ins
 
 Pursuing a UX design and/or front-end web developer internship.
 Basic but growing familiarity with:
-Photoshop, Illustrator
+Photoshop, Illustrator, 
 HTML/CSS, Javascript, Ruby.
 
 ### Drop me a line
